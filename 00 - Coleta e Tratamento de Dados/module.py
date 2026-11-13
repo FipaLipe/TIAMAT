@@ -18,6 +18,14 @@ import os
 SIRIUS_LOCATION = (-22.807606, -47.052526)
 POS_LAT_SIRIUS, POS_LON_SIRIUS = SIRIUS_LOCATION
 
+PV_NAMES = {
+    "BPM_X": "SI-01C1:DI-BPM-1:PosX-Mon",
+    "BPM_Y": "SI-01C1:DI-BPM-1:PosY-Mon",
+    "BPM_Z": "SI-01C1:DI-BPM-1:PosZ-Mon",
+    "SEIS_X": "RR-09S:SS-Seism-Ax13:SX-Mon",
+    "SEIS_Y": "RR-09S:SS-Seism-Ax13:SY-Mon",
+}
+
 
 def get_archiver_data(
     pv,
