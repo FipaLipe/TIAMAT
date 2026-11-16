@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Cuba Region2026-06-08T18:00:24.039291Z,22.712100982666016,-85.56118774414062,58.95381931429778,10.0,6.125276571806551,mb,USP,2026-06-08T18:00:24.039291Z,-22.807606,-47.052526,6538981.956752583,137.7602924498864

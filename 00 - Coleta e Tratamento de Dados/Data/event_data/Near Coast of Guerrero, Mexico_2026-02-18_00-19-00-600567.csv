@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"Near Coast of Guerrero, Mexico2026-02-18T00:19:00.600567Z",16.637662887573242,-99.22309875488281,64.4878746701523,10.0,5.115720619775021,mb,USP,2026-02-18T00:19:00.600567Z,-22.807606,-47.052526,7162524.124220647,126.04350124932238

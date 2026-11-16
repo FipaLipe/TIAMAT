@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Leeward Islands2025-10-27T12:38:41.017257Z,16.52195167541504,-59.59931182861328,41.2005613836763,10.0,6.42652484811808,mb,USP,2025-10-27T12:38:41.017257Z,-22.807606,-47.052526,4560225.631139294,162.1962414713057

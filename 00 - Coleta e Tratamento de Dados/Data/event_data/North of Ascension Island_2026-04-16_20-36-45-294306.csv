@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+North of Ascension Island2026-04-16T20:36:45.294306Z,-0.03704191371798515,-16.53485107421875,37.40459375817379,23.07200050354004,5.208621149523261,mb,USP,2026-04-16T20:36:45.294306Z,-22.807606,-47.052526,4154778.893713649,230.5838204787013

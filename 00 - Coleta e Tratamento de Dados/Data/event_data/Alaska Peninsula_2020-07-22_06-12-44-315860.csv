@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Alaska Peninsula2020-07-22T06:12:44.315860Z,55.14631653,-158.5352478,120.73219558077707,30.22937012,7.697946771,mB,USP,2020-07-22T06:12:44.315860Z,-22.807606,-47.052526,13416662.701024648,86.10716695751096

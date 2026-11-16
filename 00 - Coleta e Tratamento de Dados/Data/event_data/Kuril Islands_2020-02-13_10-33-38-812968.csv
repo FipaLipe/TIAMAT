@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Kuril Islands2020-02-13T10:33:38.812968Z,45.46541977,149.2765045,153.73332188255364,121.2513657,7.01721538,mB,USP,2020-02-13T10:33:38.812968Z,-22.807606,-47.052526,17092407.107690286,35.499120586290644

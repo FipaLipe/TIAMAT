@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Tristan Da Cunha Region2026-08-01T11:07:20.070762Z,-39.641334533691406,-15.725249290466309,31.387766396703952,10.0,5.158604930672032,mb,USP,2026-08-01T11:07:20.070762Z,-22.807606,-47.052526,3492319.984290962,292.9166714377426

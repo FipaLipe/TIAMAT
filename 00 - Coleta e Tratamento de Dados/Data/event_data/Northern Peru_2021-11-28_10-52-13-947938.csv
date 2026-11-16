@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Northern Peru2021-11-28T10:52:13.947938Z,-4.420404434,-76.74281311,34.07683972269003,123.125351,7.450334788,Mw(Mwp),USP,2021-11-28T10:52:13.947938Z,-22.807606,-47.052526,3787290.6659253845,125.26151558893439

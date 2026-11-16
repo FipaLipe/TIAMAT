@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Gulf of California2026-08-02T13:11:01.080920Z,25.803125381469727,-109.1090316772461,77.28147280247656,10.0,5.294170053700233,mb,USP,2026-08-02T13:11:01.080920Z,-22.807606,-47.052526,8583165.55544981,123.22441412760175

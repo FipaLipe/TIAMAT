@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Egypt2026-08-03T00:00:36.195612Z,30.1566276550293,32.76225662231445,93.08360424996064,22.0,5.349778638592498,mb,USP,2026-08-03T00:00:36.195612Z,-22.807606,-47.052526,10343617.314023891,245.4857566302491

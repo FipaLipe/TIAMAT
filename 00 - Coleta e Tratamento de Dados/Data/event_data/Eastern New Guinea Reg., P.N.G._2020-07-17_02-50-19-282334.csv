@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"Eastern New Guinea Reg., P.N.G.2020-07-17T02:50:19.282334Z",-8.107479095,148.0907745,145.71442343296562,82.82822418,7.048442257,mB,USP,2020-07-17T02:50:19.282334Z,-22.807606,-47.052526,16212718.887537936,154.91871278776674

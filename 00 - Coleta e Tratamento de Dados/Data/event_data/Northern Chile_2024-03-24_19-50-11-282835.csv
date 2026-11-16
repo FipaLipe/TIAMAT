@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Northern Chile2024-03-24T19:50:11.282835Z,-19.42490387,-69.92701721,21.582092654091035,79.0,5.089823591,mb,USP,2024-03-24T19:50:11.282835Z,-22.807606,-47.052526,2403209.7130578076,103.00777109925816

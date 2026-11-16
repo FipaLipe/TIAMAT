@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Southeast of Easter Island2024-10-13T22:48:33.102160Z,-36.29672241,-100.9139633,48.11685864769731,10.0,5.027061919,mb,USP,2024-10-13T22:48:33.102160Z,-22.807606,-47.052526,5358569.977292882,89.3571826613157

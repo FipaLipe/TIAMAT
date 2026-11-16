@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+East of South Sandwich Islands2026-07-15T14:51:41.061053Z,-59.98649215698242,-19.05962562561035,42.028892016922725,24.40223693847656,5.623955854165297,mb,USP,2026-07-15T14:51:41.061053Z,-22.807606,-47.052526,4671724.447349699,319.65825534821084

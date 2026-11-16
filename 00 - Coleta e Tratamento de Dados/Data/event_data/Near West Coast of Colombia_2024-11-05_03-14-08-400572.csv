@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Near West Coast of Colombia2024-11-05T03:14:08.400572Z,5.13470459,-77.15922546,40.574591090230975,39.0,5.048913362,mb,USP,2024-11-05T03:14:08.400572Z,-22.807606,-47.052526,4503656.427001448,134.5093589828411

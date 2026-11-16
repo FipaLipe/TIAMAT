@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+East-Central Pacific Ocean2026-08-10T05:41:44.551519Z,0.4642567932605743,-114.6454315185547,69.62101784627458,10.0,5.83363333248068,mb,USP,2026-08-10T05:41:44.551519Z,-22.807606,-47.052526,7745935.675904617,114.50939683500316

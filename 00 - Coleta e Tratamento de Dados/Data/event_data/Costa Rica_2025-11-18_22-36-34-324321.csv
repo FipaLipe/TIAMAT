@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Costa Rica2025-11-18T22:36:34.324321Z,8.855880737304688,-83.97819519042969,48.0525291600751,10.0,5.354130493939312,mb,USP,2025-11-18T22:36:34.324321Z,-22.807606,-47.052526,5334952.949279328,131.69299347720843

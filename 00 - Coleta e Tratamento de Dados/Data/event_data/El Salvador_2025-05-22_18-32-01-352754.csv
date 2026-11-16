@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+El Salvador2025-05-22T18:32:01.352754Z,13.08140755,-88.38049316,54.089045261722106,64.0,5.036305652,mb,USP,2025-05-22T18:32:01.352754Z,-22.807606,-47.052526,6004903.081526706,131.08923280300144

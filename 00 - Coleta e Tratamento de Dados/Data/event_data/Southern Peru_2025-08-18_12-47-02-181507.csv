@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Southern Peru2025-08-18T12:47:02.181507Z,-15.741540908813477,-72.46395874023438,24.965204247352336,93.0,5.065056994332767,mb,USP,2025-08-18T12:47:02.181507Z,-22.807606,-47.052526,2778810.2228826284,110.32074475644909

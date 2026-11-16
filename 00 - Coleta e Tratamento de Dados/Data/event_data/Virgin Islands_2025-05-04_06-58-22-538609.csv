@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Virgin Islands2025-05-04T06:58:22.538609Z,18.784284591674805,-64.63778686523438,44.999839914684074,27.0,5.359381946499886,mb,USP,2025-05-04T06:58:22.538609Z,-22.807606,-47.052526,4982704.651008392,156.67501142531086

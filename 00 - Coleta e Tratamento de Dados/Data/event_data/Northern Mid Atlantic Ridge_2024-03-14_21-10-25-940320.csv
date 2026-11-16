@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Northern Mid Atlantic Ridge2024-03-14T21:10:25.940320Z,29.72904968,-42.74385834,52.69978355752,10.0,6.105081644,mB,USP,2024-03-14T21:10:25.940320Z,-22.807606,-47.052526,5831586.597920345,185.02274042556817

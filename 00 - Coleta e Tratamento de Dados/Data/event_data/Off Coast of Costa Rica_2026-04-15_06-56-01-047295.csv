@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Off Coast of Costa Rica2026-04-15T06:56:01.047295Z,9.790513038635254,-86.4330062866211,50.489418011092866,10.0,5.846086058848598,mb,USP,2026-04-15T06:56:01.047295Z,-22.807606,-47.052526,5606118.6441234285,130.52434229188006

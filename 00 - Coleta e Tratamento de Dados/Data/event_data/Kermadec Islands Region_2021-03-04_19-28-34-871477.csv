@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Kermadec Islands Region2021-03-04T19:28:34.871477Z,-28.99676895,-177.5098419,109.58807751646135,13.66384697,7.664327609,mB,USP,2021-03-04T19:28:34.871477Z,-22.807606,-47.052526,12204685.399853487,131.9782529455123

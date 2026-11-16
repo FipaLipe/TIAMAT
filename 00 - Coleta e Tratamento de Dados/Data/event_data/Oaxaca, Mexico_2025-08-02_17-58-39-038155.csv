@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"Oaxaca, Mexico2025-08-02T17:58:39.038155Z",17.064937591552734,-96.20427703857422,62.44376909895688,10.0,5.424063340719346,mb,USP,2025-08-02T17:58:39.038155Z,-22.807606,-47.052526,6934012.067316705,127.9578773931574

@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+South Shetland Islands2026-03-20T01:15:54.067362Z,-61.64242172241211,-56.65735626220703,39.39224503554998,31.0,5.036656401237945,mb,USP,2026-03-20T01:15:54.067362Z,-22.807606,-47.052526,4376207.598729845,14.057938764790446

@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"Veracruz, Mexico2026-03-28T12:57:58.934826Z",18.283296585083008,-95.60079956054688,62.75381548758828,15.0,5.313840754306059,mb,USP,2026-03-28T12:57:58.934826Z,-22.807606,-47.052526,6967563.695958046,128.81951574729618

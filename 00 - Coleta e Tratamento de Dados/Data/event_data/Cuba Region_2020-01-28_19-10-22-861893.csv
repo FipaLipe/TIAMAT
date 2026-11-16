@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Cuba Region2020-01-28T19:10:22.861893Z,19.33919716,-78.80121613,52.31824526146342,0.0,7.547371495,Mwp,USP,2020-01-28T19:10:22.861893Z,-22.807606,-47.052526,5800752.694249911,142.0259177707684

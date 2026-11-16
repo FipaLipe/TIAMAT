@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Falkland Islands Region2025-10-23T14:25:17.083723Z,-53.78888320922852,-56.99477005004883,31.879864815288247,10.0,5.057639184130394,mb,USP,2025-10-23T14:25:17.083723Z,-22.807606,-47.052526,3539735.2804294685,17.59088383667824

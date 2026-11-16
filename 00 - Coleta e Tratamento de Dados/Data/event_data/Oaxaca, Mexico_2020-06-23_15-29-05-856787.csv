@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"Oaxaca, Mexico2020-06-23T15:29:05.856787Z",16.01655388,-95.88122559,61.55410368324217,38.27355576,7.41120891,mB,USP,2020-06-23T15:29:05.856787Z,-22.807606,-47.052526,6835611.3254774725,127.71276377124589

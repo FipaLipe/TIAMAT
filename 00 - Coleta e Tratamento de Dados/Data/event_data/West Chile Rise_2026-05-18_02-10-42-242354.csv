@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+West Chile Rise2026-05-18T02:10:42.242354Z,-43.5198860168457,-82.51287078857422,35.7685812525936,10.0,5.566858316385344,mb,USP,2026-05-18T02:10:42.242354Z,-22.807606,-47.052526,3979497.907237482,66.31823646876259

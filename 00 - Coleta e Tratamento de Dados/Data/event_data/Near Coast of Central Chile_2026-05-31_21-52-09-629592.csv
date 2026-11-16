@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Near Coast of Central Chile2026-05-31T21:52:09.629592Z,-32.761688232421875,-71.66144561767578,23.85976997555443,10.0,5.11790596964981,mb,USP,2026-05-31T21:52:09.629592Z,-22.807606,-47.052526,2655577.774777837,71.73288550459391

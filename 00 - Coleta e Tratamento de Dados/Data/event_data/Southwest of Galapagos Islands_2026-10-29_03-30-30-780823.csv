@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Southwest of Galapagos Islands2026-10-29T03:30:30.780823Z,-5.147529125213623,-95.88143157958984,50.27009176062349,10.0,5.230160597138379,mb,USP,2026-10-29T03:30:30.780823Z,-22.807606,-47.052526,5592930.897879053,115.429822785126

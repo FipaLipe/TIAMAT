@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+West Chile Rise2025-02-04T01:40:36.043330Z,-38.70519257,-92.21038818,41.43954423827483,10.0,5.260684563,mb,USP,2025-02-04T01:40:36.043330Z,-22.807606,-47.052526,4613721.795235586,81.06225064442177

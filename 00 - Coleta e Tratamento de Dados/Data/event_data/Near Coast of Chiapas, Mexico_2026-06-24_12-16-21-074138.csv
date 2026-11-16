@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"Near Coast of Chiapas, Mexico2026-06-24T12:16:21.074138Z",15.494105339050293,-93.2267074584961,59.23126641731526,10.0,5.090009319207303,mb,USP,2026-06-24T12:16:21.074138Z,-22.807606,-47.052526,6576780.75384947,129.10573596103558

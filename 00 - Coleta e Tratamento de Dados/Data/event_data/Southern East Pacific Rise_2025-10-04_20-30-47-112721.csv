@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Southern East Pacific Rise2025-10-04T20:30:47.112721Z,-35.657779693603516,-105.16529083251953,51.56539274798522,10.0,5.025624031929397,mb,USP,2025-10-04T20:30:47.112721Z,-22.807606,-47.052526,5742986.1355657885,92.34859268809483

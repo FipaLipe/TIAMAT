@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Off Coast of Ecuador2026-10-16T19:34:13.063601Z,1.2105754613876343,-85.0264663696289,44.08538531094435,10.0,5.227027190346297,mb,USP,2026-10-16T19:34:13.063601Z,-22.807606,-47.052526,4899085.974731776,125.22261840217088

@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Near Coast of Ecuador2024-05-21T02:43:12.408345Z,-3.673829794,-79.55521393,36.806277688924126,91.0,5.051512154,mb,USP,2024-05-21T02:43:12.408345Z,-22.807606,-47.052526,4091128.0414164057,124.07303356389467

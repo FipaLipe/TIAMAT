@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Dominican Republic Region2025-10-20T19:13:51.340578Z,17.922557830810547,-70.11812591552734,46.553695030676934,10.0,5.187797469056488,mb,USP,2025-10-20T19:13:51.340578Z,-22.807606,-47.052526,5157659.132687165,150.01306201804204

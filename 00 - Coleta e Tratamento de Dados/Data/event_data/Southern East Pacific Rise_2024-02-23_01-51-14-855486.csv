@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Southern East Pacific Rise2024-02-23T01:51:14.855486Z,-34.92407608,-110.5802078,56.02505961699223,10.0,6.159628937,mB,USP,2024-02-23T01:51:14.855486Z,-22.807606,-47.052526,6240020.581669857,95.78193410002845

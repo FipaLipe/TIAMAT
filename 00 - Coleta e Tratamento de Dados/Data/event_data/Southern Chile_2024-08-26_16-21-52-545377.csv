@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Southern Chile2024-08-26T16:21:52.545377Z,-44.73876572,-73.31137085,30.67640618291837,67.57614899000001,5.357681547,mb,USP,2024-08-26T16:21:52.545377Z,-22.807606,-47.052526,3410395.08578004,53.20092794293056

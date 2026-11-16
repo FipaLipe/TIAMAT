@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Flores Sea2021-12-14T03:20:19.793092Z,-7.686703205,122.0427856,147.6916764541233,10.0,7.295179687,mB,USP,2021-12-14T03:20:19.793092Z,-22.807606,-47.052526,16430998.39487173,198.84393489800385

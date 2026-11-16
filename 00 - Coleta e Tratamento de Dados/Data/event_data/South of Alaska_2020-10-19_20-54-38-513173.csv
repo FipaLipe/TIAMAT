@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+South of Alaska2020-10-19T20:54:38.513173Z,54.67897797,-159.5548248,121.34937982377322,33.17296219,7.477182145,mB,USP,2020-10-19T20:54:38.513173Z,-22.807606,-47.052526,13485672.022411058,85.52655013351034

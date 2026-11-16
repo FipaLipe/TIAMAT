@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+East of Kuril Islands2020-03-25T02:49:11.159690Z,49.00678635,158.6789398,146.85649317585387,10.0,7.604934479,mB,USP,2020-03-25T02:49:11.159690Z,-22.807606,-47.052526,16327960.739063967,46.75493186789362

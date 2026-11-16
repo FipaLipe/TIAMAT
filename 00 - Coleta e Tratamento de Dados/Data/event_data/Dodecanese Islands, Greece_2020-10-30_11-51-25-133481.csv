@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"Dodecanese Islands, Greece2020-10-30T11:51:25.133481Z",37.75195312,26.80189896,91.98581207234564,10.0,7.039377922,mB,USP,2020-10-30T11:51:25.133481Z,-22.807606,-47.052526,10216485.251324227,242.5522648387061

@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"Near East Coast of Honshu, Japan2021-03-20T09:09:45.024675Z",38.52764511,141.5487213,162.6472224415964,52.5268364,7.038776219,mB,USP,2021-03-20T09:09:45.024675Z,-22.807606,-47.052526,18082707.074943688,27.025365387448403

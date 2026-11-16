@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Central Peru2024-05-05T04:38:19.959065Z,-13.4360199,-71.39266205,24.911406241558755,10.0,5.038775577,mb,USP,2024-05-05T04:38:19.959065Z,-22.807606,-47.052526,2771671.943184531,115.46094185099591

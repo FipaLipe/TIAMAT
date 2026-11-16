@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Northern Colombia2026-03-01T10:12:50.930603Z,7.660738468170166,-72.93370819091797,39.62113864200059,211.6959991455078,5.323179420113868,mb,USP,2026-03-01T10:12:50.930603Z,-22.807606,-47.052526,4394436.57531338,140.6970376602933

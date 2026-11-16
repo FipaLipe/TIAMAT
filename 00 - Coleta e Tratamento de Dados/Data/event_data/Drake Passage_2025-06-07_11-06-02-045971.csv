@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Drake Passage2025-06-07T11:06:02.045971Z,-57.70467758178711,-66.99701690673828,37.75443426896139,10.0,5.230961490287439,mb,USP,2025-06-07T11:06:02.045971Z,-22.807606,-47.052526,4194780.569366788,30.975330421494903

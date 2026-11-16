@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"Off Coast of Michoacan, Mexico2024-06-18T01:10:11.677473Z",17.49348831,-104.9902802,69.50163711341355,10.0,5.050901779,mb,USP,2024-06-18T01:10:11.677473Z,-22.807606,-47.052526,7721312.56839032,123.31358894065623

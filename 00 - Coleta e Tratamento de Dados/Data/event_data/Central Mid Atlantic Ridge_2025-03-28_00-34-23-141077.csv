@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Central Mid Atlantic Ridge2025-03-28T00:34:23.141077Z,0.7756907344,-29.78157234,28.96448586744448,10.0,5.921798058,mB,USP,2025-03-28T00:34:23.141077Z,-22.807606,-47.052526,3211248.914250799,214.58437865506048

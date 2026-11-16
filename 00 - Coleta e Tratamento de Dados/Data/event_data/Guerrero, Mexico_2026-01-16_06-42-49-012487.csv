@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"Guerrero, Mexico2026-01-16T06:42:49.012487Z",17.274681091308594,-100.10041809082031,65.54124735570085,10.0,5.111337196528897,mb,USP,2026-01-16T06:42:49.012487Z,-22.807606,-47.052526,7279555.854428505,125.79714126568497

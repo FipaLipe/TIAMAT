@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"Off Coast of Chiapas, Mexico2026-07-17T17:23:17.473654Z",14.367765426635742,-94.1597671508789,59.22972713629755,10.0,5.121732194491301,mb,USP,2026-07-17T17:23:17.473654Z,-22.807606,-47.052526,6577603.22033841,128.00807272946452

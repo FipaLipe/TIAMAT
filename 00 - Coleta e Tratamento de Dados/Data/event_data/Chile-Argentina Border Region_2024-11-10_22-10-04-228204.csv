@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Chile-Argentina Border Region2024-11-10T22:10:04.228204Z,-29.76572037,-69.18370056,20.984075973541554,97.0,5.189214788,mb,USP,2024-11-10T22:10:04.228204Z,-22.807606,-47.052526,2336093.6606520317,75.9657176260041

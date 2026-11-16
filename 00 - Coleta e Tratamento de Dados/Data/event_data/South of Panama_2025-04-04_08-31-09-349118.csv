@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+South of Panama2025-04-04T08:31:09.349118Z,3.9940671920776367,-82.4616470336914,43.74002190363993,10.0,5.02382150650471,mb,USP,2025-04-04T08:31:09.349118Z,-22.807606,-47.052526,4858134.670026343,129.24299179971686

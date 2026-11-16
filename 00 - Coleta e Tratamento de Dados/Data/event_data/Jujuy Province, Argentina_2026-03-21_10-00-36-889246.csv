@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"Jujuy Province, Argentina2026-03-21T10:00:36.889246Z",-23.90958595275879,-66.88426208496094,18.224832643802053,194.66299438476562,5.657882572468175,mb,USP,2026-03-21T10:00:36.889246Z,-22.807606,-47.052526,2029805.6214299574,90.55562529630193

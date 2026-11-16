@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"San Juan Province, Argentina2024-10-20T22:59:40.063767Z",-30.85447311,-68.6530838,20.839656533645183,92.86341095,5.486219088,mb,USP,2024-10-20T22:59:40.063767Z,-22.807606,-47.052526,2319605.3955349852,72.6415449120199

@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Haiti Region2021-08-14T12:29:07.421513Z,18.41366959,-73.44582367,48.62353938097868,10.0,7.244813458,mB,USP,2021-08-14T12:29:07.421513Z,-22.807606,-47.052526,5388628.920143448,146.73563978292958

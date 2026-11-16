@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"Chiapas, Mexico2024-08-05T19:02:59.557439Z",16.84491158,-93.63505554,60.3925998775146,140.0,5.423442526,mb,USP,2024-08-05T19:02:59.557439Z,-22.807606,-47.052526,6705224.638975925,129.45303725783762

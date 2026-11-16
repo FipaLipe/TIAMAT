@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Southern Mid-Atlantic Ridge2026-08-22T01:34:59.286992Z,-12.644652366638184,-14.989234924316406,32.10138241112112,10.0,5.150182419521306,mb,USP,2026-08-22T01:34:59.286992Z,-22.807606,-47.052526,3572471.8293530094,247.15151267148465

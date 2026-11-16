@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Alaska Peninsula2021-07-29T06:15:47.045291Z,55.39487457,-157.7922821,120.29468989038678,32.0,8.051475593,mB,USP,2021-07-29T06:15:47.045291Z,-22.807606,-47.052526,13367771.053307125,86.58806250867248

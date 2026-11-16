@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Northern Peru2025-07-31T14:48:16.028188Z,-4.859892368,-74.80932617,32.258486789235036,10.0,5.184979907,mb,USP,2025-07-31T14:48:16.028188Z,-22.807606,-47.052526,3584812.43002588,126.28866594084853

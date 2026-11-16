@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+South of Africa2026-09-20T20:54:38.380243Z,-48.44759750366211,31.450828552246094,65.67226485892489,10.0,5.546058357456761,mb,USP,2026-09-20T20:54:38.380243Z,-22.807606,-47.052526,7313773.822674317,262.3641764175062

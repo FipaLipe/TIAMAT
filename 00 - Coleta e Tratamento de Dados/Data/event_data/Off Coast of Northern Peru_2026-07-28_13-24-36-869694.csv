@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Off Coast of Northern Peru2026-07-28T13:24:36.869694Z,-9.676529884338379,-79.57476806640625,33.761957307398376,20.0,5.274294661804181,mb,USP,2026-07-28T13:24:36.869694Z,-22.807606,-47.052526,3755898.6843911787,116.77959859042612

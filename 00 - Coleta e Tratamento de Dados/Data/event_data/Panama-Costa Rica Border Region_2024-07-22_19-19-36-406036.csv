@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Panama-Costa Rica Border Region2024-07-22T19:19:36.406036Z,8.071275711,-82.70323181,46.59078296204209,10.0,5.741372781,mB,USP,2024-07-22T19:19:36.406036Z,-22.807606,-47.052526,5172510.223886777,132.12306190011913

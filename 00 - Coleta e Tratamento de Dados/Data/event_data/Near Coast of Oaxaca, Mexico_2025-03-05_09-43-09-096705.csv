@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"Near Coast of Oaxaca, Mexico2025-03-05T09:43:09.096705Z",15.661641120910645,-94.95763397216797,60.635865369577644,10.0,5.363449070301251,mb,USP,2025-03-05T09:43:09.096705Z,-22.807606,-47.052526,6733425.155190353,128.11289452517633

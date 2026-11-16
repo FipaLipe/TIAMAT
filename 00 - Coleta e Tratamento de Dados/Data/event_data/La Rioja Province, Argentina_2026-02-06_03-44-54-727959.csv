@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"La Rioja Province, Argentina2026-02-06T03:44:54.727959Z",-28.922815322875977,-68.62644958496094,20.31700205041402,110.0,5.278715282241636,mb,USP,2026-02-06T03:44:54.727959Z,-22.807606,-47.052526,2262013.100784908,77.56464256092121

@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Bouvet Island Region2025-05-30T05:36:40.984573Z,-53.02332305908203,8.732904434204102,51.57819703264433,10.0,5.288711560447998,mb,USP,2025-05-30T05:36:40.984573Z,-22.807606,-47.052526,5740626.52777927,283.2438829902456

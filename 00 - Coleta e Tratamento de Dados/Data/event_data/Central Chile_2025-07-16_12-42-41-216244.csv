@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Central Chile2025-07-16T12:42:41.216244Z,-28.13926696777344,-70.81649017333984,22.065648805551067,10.0,5.023547331780929,mb,USP,2025-07-16T12:42:41.216244Z,-22.807606,-47.052526,2457079.0354136457,81.49117374887119

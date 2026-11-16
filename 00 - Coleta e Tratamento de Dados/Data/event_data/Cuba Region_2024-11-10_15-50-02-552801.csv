@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Cuba Region2024-11-10T15:50:02.552801Z,19.8158493,-76.9132843,51.633832801081994,10.0,5.504211296,mb,USP,2024-11-10T15:50:02.552801Z,-22.807606,-47.052526,5723708.071450339,143.9998543896059

@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Banda Sea2021-12-29T18:25:52.557632Z,-7.760689735,127.5928726,148.98559994688395,199.8890381,7.265762399,mB,USP,2021-12-29T18:25:52.557632Z,-22.807606,-47.052526,16573445.452754512,189.49761529105766

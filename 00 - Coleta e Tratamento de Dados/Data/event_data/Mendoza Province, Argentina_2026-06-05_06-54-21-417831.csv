@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"Mendoza Province, Argentina2026-06-05T06:54:21.417831Z",-32.64439392089844,-68.7092056274414,21.485845679725408,10.0,5.193361696473517,mb,USP,2026-06-05T06:54:21.417831Z,-22.807606,-47.052526,2390907.1553446534,68.36903803674325

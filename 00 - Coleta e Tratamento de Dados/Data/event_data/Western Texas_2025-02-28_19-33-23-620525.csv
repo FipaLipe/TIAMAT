@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Western Texas2025-02-28T19:33:23.620525Z,32.0452919,-102.006546,75.93613607772969,10.0,5.073511717,mb,USP,2025-02-28T19:33:23.620525Z,-22.807606,-47.052526,8428155.675162364,128.74290622059868

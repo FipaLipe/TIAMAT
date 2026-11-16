@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Jamaica Region2026-02-10T08:18:18.956248Z,18.203144073486328,-75.47364044189453,49.53046382528452,12.214993476867676,5.316323440760875,mb,USP,2026-02-10T08:18:18.956248Z,-22.807606,-47.052526,5490296.557162632,144.60950115984573

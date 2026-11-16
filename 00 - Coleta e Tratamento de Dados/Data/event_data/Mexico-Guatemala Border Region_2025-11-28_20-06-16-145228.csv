@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Mexico-Guatemala Border Region2025-11-28T20:06:16.145228Z,15.232397079467773,-91.49168395996094,57.77810201616938,205.7429962158203,5.617033433343644,mb,USP,2025-11-28T20:06:16.145228Z,-22.807606,-47.052526,6414787.0198522145,130.09722839277026

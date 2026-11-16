@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Costa Rica2026-07-07T18:11:30.671738Z,9.5863037109375,-84.73623657226562,49.09720252415811,29.0,5.22722647536746,mb,USP,2026-07-07T18:11:30.671738Z,-22.807606,-47.052526,5450886.338681019,131.61123685974297
