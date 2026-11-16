@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"Salta Province, Argentina2025-06-15T17:31:04.328810Z",-24.35828971862793,-66.89888763427734,18.239293831400776,183.53799438476562,5.111821986430333,mb,USP,2025-06-15T17:31:04.328810Z,-22.807606,-47.052526,2031395.2045518572,89.20727043212442

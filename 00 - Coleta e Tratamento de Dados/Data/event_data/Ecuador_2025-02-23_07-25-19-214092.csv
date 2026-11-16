@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Ecuador2025-02-23T07:25:19.214092Z,-1.164605021,-77.35735321,36.52827740444893,24.0,5.070090012,mb,USP,2025-02-23T07:25:19.214092Z,-22.807606,-47.052526,4058006.170087214,128.43215351033038

@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Central Bolivia2026-08-15T11:10:49.679885Z,-16.222307205200195,-65.07429504394531,18.198929164489765,10.0,5.487661641554253,mb,USP,2026-08-15T11:10:49.679885Z,-22.807606,-47.052526,2025083.1860776052,113.94272625321835

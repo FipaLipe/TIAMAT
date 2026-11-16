@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Southern Bolivia2025-12-30T20:26:04.666351Z,-20.721847534179688,-63.13877868652344,15.076493167206305,559.81201171875,5.094610677369524,mb,USP,2025-12-30T20:26:04.666351Z,-22.807606,-47.052526,1678895.511912415,100.85049167924946

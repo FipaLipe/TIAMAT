@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Nicaragua2024-04-17T21:21:54.034437Z,11.2127409,-85.26030731,50.57027315369728,154.0,5.452455281,mb,USP,2024-04-17T21:21:54.034437Z,-22.807606,-47.052526,5613795.766954941,132.2424679742546

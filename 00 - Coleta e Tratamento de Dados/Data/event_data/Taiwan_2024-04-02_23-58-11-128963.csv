@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Taiwan2024-04-02T23:58:11.128963Z,23.77849007,121.8580704,169.77094904738615,44.296443939999996,7.444622266,mB,USP,2024-04-02T23:58:11.128963Z,-22.807606,-47.052526,18892748.33159033,273.5911492822208

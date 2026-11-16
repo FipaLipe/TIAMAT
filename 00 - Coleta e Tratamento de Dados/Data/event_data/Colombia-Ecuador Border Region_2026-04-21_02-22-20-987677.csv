@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Colombia-Ecuador Border Region2026-04-21T02:22:20.987677Z,0.342138797044754,-78.17646789550781,38.11354141979516,120.0,5.112829378371918,mb,USP,2026-04-21T02:22:20.987677Z,-22.807606,-47.052526,4233550.796544938,129.2939923048328

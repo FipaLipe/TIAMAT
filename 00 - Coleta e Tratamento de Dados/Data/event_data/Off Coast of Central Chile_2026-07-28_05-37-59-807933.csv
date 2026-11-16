@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Off Coast of Central Chile2026-07-28T05:37:59.807933Z,-36.087608337402344,-76.51922607421875,28.72983254273944,29.0,4.805039062527094,mb,USP,2026-07-28T05:37:59.807933Z,-22.807606,-47.052526,3197326.5144027225,70.74262504945568

@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"Kyushu, Japan2026-07-28T07:27:14.845266Z",32.65346908569336,130.77890014648438,169.9696055588513,10.0,5.938995620940759,mb,USP,2026-07-28T07:27:14.845266Z,-22.807606,-47.052526,18893105.753886294,348.9028879681895

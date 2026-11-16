@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"Volcano Islands, Japan Region2026-08-15T19:32:25.177448Z",23.567440032958984,143.12091064453125,170.61955353708612,10.0,5.472866327336571,mb,USP,2026-08-15T19:32:25.177448Z,-22.807606,-47.052526,18987372.115888342,87.02634921336245

@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Solomon Islands2026-10-24T02:31:13.659376Z,-8.499776840209961,157.69215393066406,140.41522986712263,10.0,7.006438208060289,Mwp,USP,2026-10-24T02:31:13.659376Z,-22.807606,-47.052526,15626543.48117182,142.95358955839563

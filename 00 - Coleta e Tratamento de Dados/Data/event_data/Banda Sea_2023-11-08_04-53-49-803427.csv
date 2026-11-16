@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Banda Sea2023-11-08T04:53:49.803427Z,-6.540957928,129.5098877,150.4593769917831,10.0,7.108286468,mB,USP,2023-11-08T04:53:49.803427Z,-22.807606,-47.052526,16736300.683637554,186.3546642688839

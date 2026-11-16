@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Near Coast of Peru2024-06-28T05:36:36.674699Z,-15.88308716,-74.48317719,26.744461135986658,28.0,7.222237571,mB,USP,2024-06-28T05:36:36.674699Z,-22.807606,-47.052526,2977094.3011723612,109.24104033700931

@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"Kermadec Islands, New Zealand2023-04-24T00:41:56.113997Z",-29.89867973,-177.7336884,109.1283030516834,49.0,7.030333532,mB,USP,2023-04-24T00:41:56.113997Z,-22.807606,-47.052526,12153660.68979624,132.36932189224123

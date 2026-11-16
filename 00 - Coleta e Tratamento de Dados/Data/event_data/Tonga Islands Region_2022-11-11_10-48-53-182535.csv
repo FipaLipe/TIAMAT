@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Tonga Islands Region2022-11-11T10:48:53.182535Z,-19.12236977,-172.5571289,112.26144274869088,90.0,7.433552404,mB,USP,2022-11-11T10:48:53.182535Z,-22.807606,-47.052526,12500400.565873554,125.89920438105312

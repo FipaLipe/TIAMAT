@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Off Coast of Southern Chile2026-03-15T08:28:39.506532Z,-45.48241806030273,-76.94129943847656,33.202014745371976,10.0,5.218584478627979,mb,USP,2026-03-15T08:28:39.506532Z,-22.807606,-47.052526,3692074.636029725,57.14856765506231

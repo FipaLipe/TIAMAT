@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Scotia Sea2024-11-27T15:59:21.138932Z,-60.44554138,-47.38789368,37.63866616308283,31.0,5.033042552,mb,USP,2024-11-27T15:59:21.138932Z,-22.807606,-47.052526,4180563.6902086954,0.5074850112063517

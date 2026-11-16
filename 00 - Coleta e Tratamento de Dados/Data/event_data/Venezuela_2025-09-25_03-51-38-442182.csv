@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Venezuela2025-09-25T03:51:38.442182Z,9.935318946838379,-70.84122467041016,40.185219405824384,10.0,6.32661930461887,mb,USP,2025-09-25T03:51:38.442182Z,-22.807606,-47.052526,4454873.224915312,144.63897072866928

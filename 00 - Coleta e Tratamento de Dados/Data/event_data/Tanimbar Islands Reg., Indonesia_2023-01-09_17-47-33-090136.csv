@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"Tanimbar Islands Reg., Indonesia2023-01-09T17:47:33.090136Z",-7.265597343,130.1343689,149.8010427601468,108.935257,7.354994479,mB,USP,2023-01-09T17:47:33.090136Z,-22.807606,-47.052526,16663443.601325255,185.09624829312406

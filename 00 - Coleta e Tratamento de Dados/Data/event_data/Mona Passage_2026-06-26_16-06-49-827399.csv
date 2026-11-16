@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Mona Passage2026-06-26T16:06:49.827399Z,17.69837188720703,-68.35481262207031,45.545879598039484,79.0,5.181827668234805,mb,USP,2026-06-26T16:06:49.827399Z,-22.807606,-47.052526,5045162.526259827,151.87109667688475

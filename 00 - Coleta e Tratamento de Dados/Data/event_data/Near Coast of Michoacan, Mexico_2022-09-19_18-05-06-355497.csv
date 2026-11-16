@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"Near Coast of Michoacan, Mexico2022-09-19T18:05:06.355497Z",18.25141335,-103.14888,68.47461065220624,10.0,7.568133835,mB,USP,2022-09-19T18:05:06.355497Z,-22.807606,-47.052526,7606118.467533944,124.49425504575693

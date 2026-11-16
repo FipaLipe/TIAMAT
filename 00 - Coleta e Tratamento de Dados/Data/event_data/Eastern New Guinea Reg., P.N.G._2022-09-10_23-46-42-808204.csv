@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"Eastern New Guinea Reg., P.N.G.2022-09-10T23:46:42.808204Z",-6.409924507,147.3611603,147.55843169022626,10.0,7.563048732,mB,USP,2022-09-10T23:46:42.808204Z,-22.807606,-47.052526,16416907.453107478,154.9214155501752

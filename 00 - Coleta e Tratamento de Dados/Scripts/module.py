@@ -1,12 +1,16 @@
+from datetime import timedelta, timezone
+import datetime
 import os
 import subprocess
 from pathlib import Path
 
 import matplotlib.pyplot as plt
+import plotly.graph_objects as go
+import numpy as np
 import obspy.core.utcdatetime as utc
 import obspy.geodetics as geo
 import pandas as pd
-from obspy import taup
+from obspy import UTCDateTime, taup
 from obspy.clients.fdsn import Client
 from obspy.core.event.catalog import Catalog
 
@@ -17,6 +21,7 @@ import os
 
 SIRIUS_LOCATION = (-22.807606, -47.052526)
 POS_LAT_SIRIUS, POS_LON_SIRIUS = SIRIUS_LOCATION
+SCRIPT_DIR = Path(__file__).resolve().parent
 
 PV_NAMES = {
     "BPM_X": "SI-01C1:DI-BPM-1:PosX-Mon",
@@ -34,6 +39,7 @@ def get_archiver_data(
     optimize=-1,
     diff=True,
     base_url="https://ais-eng-srv-ca.cnpem.br/retrieval/data/getData.json",
+    convert_to_iso=False,
 ):
     """
     Retrieve time-series data from the EPICS Archiver Appliance and return it
@@ -98,8 +104,16 @@ def get_archiver_data(
 
     parameters = {
         "pv": f"optimized_{optimize}({pv})" if optimize != -1 else pv,
-        "from": from_time,
-        "to": to_time,
+        "from": (
+            datetime.datetime.fromtimestamp(from_time, tz=timezone.utc).isoformat()
+            if convert_to_iso
+            else from_time
+        ),
+        "to": (
+            datetime.datetime.fromtimestamp(to_time, tz=timezone.utc).isoformat()
+            if convert_to_iso
+            else to_time
+        ),
     }
 
     response = requests.get(base_url, params=parameters)
@@ -168,7 +182,14 @@ def arrival_list(
         source_depth_in_km=depth, distance_in_degree=epicenter_distance_degree
     )
 
-    return travel_times, epicenter_distance_degree, model, model_name
+    return (
+        travel_times,
+        epicenter_distance_degree,
+        model,
+        model_name,
+        geodesic_distance,
+        azimuth_degree,
+    )
 
 
 def earth_plot(model: taup.TauPyModel, depth: float, epicenter_distance_degree: float):
@@ -231,6 +252,8 @@ def table_create(
     model_name: str,
     catalog: str,
     epicenter_distance: float,
+    geodesic_distance: float,
+    azimuth_degree: float,
     event_data: pd.DataFrame = None,
     time_data: pd.DataFrame = None,
 ):
@@ -287,6 +310,8 @@ def table_create(
                 "origin_time": [UTC_origin],
                 "receptor_latitude": [POS_LAT_SIRIUS],
                 "receptor_longitude": [POS_LON_SIRIUS],
+                "geodesic_distance": [geodesic_distance],
+                "azimuth_degree": [azimuth_degree],
             }
         )
         time_data = pd.DataFrame(
@@ -330,6 +355,8 @@ def table_create(
             UTC_origin,
             POS_LAT_SIRIUS,
             POS_LON_SIRIUS,
+            geodesic_distance,
+            azimuth_degree,
         ]
 
         for arrival in arrivals:
@@ -388,9 +415,14 @@ def analise_catalog(events: Catalog, catalog: str, plotting: bool = False):
         event_id = event.event_descriptions[0].text
         origin_time = pref_origin.time
 
-        travel_time, epicenter_distance_degree, model, model_name = arrival_list(
-            latitude, longitude, depth
-        )
+        (
+            travel_time,
+            epicenter_distance_degree,
+            model,
+            model_name,
+            geodesic_distance,
+            azimuth_degree,
+        ) = arrival_list(latitude, longitude, depth)
 
         if plotting:
             earth_plot(model, depth, epicenter_distance_degree)
@@ -407,6 +439,8 @@ def analise_catalog(events: Catalog, catalog: str, plotting: bool = False):
             model_name,
             catalog,
             epicenter_distance_degree,
+            geodesic_distance,
+            azimuth_degree,
             event_data,
             time_data,
         )
@@ -581,7 +615,7 @@ def calculate_GDM52_dispersion(
 
     input_text += f"99\n"
 
-    directory = Path.cwd() / "GDM52_program"
+    directory = SCRIPT_DIR.parent / "Scripts" / "GDM52_program"
 
     exe = directory / "GDM52_dispersion.exe"
     output = directory / "GDM52_dispersion.out"
@@ -649,3 +683,180 @@ def calculate_GDM52_arrival_times(origin_time, origin_point, receiver_point):
     ).dt.strftime("%Y-%m-%dT%H:%M:%SZ")
 
     return df
+
+
+def add_hours(timestamp, hours):
+    timestamp = datetime.datetime.fromisoformat(timestamp.replace("Z", "+00:00"))
+
+    return (timestamp + datetime.timedelta(hours=hours)).strftime(
+        "%Y-%m-%dT%H:%M:%S.%fZ"
+    )
+
+
+def sub_hours(timestamp, hours):
+    timestamp = datetime.datetime.fromisoformat(timestamp.replace("Z", "+00:00"))
+
+    return (timestamp - datetime.timedelta(hours=hours)).strftime(
+        "%Y-%m-%dT%H:%M:%S.%fZ"
+    )
+
+
+def seconds_between(from_time, to_time):
+    from_time = datetime.datetime.fromisoformat(from_time.replace("Z", "+00:00"))
+
+    to_time = datetime.datetime.fromisoformat(to_time.replace("Z", "+00:00"))
+
+    return int((to_time - from_time).total_seconds())
+
+
+def plot_signal(
+    signal: np.asarray,
+    time_data: pd.DataFrame,
+    event_data: pd.DataFrame,
+    regions: np.asarray = None,
+    plot_time_data: bool = True,
+):
+    fig = go.Figure()
+    fig.update_layout(
+        autosize=False,
+        width=900,
+        height=500,
+        legend=dict(groupclick="togglegroup"),
+        margin=dict(l=0, r=0, t=0, b=0),
+    )
+
+    fig.add_scatter(x=signal["secs"].to_list(), y=signal["val"].to_list(), name="Sinal")
+
+    u_max = np.max(signal["val"].to_list())
+    u_min = np.min(signal["val"].to_list())
+
+    for i, region in enumerate(regions if regions != None else []):
+        fig.add_trace(
+            go.Scatter(
+                x=[
+                    region["x0"],
+                    region["x0"],
+                    region["x1"],
+                    region["x1"],
+                    region["x0"],
+                ],
+                y=[
+                    region["y0"],
+                    region["y1"],
+                    region["y1"],
+                    region["y0"],
+                    region["y0"],
+                ],
+                fill="toself",
+                opacity=0.6,
+                name=region["name"],
+                legendgroup=region["name"],
+                line_width=2,
+            )
+        )
+
+    if not plot_time_data:
+        fig.show()
+        return
+
+    for name in np.unique(time_data["event_id"].to_list()):
+        time_list = [
+            UTCDateTime(t).timestamp
+            for t in time_data[time_data["event_id"] == name]["arrival_time"].to_list()
+        ]
+        colors_list = [
+            "red" if phase == "love" else ("blue" if phase == "rayleigh" else "green")
+            for phase in time_data[time_data["event_id"] == name]["phase"].to_list()
+        ]
+
+        for i, j in enumerate(time_list):
+            fig.add_trace(
+                go.Scatter(
+                    x=[j, j],
+                    y=[u_min, u_max],
+                    mode="lines",
+                    line=dict(color=colors_list[i], width=2, dash="dash"),
+                    name=f"MAG {event_data[event_data["event_id"] == name]["magnitude"].values[0]:.2f} - {name[:20] + (name[20:] and '...')}",
+                    legendgroup=name,
+                    showlegend=(i == 0),
+                )
+            )
+
+    fig.show()
+
+
+def get_initial_noise(df, time_window=60, window_step=10, step_count=50, start_time=0):
+    noise_std = []
+    min_noise = float("inf")
+    max_noise = -float("inf")
+
+    regions = []
+
+    from_time = df.iloc[start_time]["secs"]
+    to_time = df.iloc[start_time]["secs"] + time_window
+
+    for _ in range(step_count):
+        df_window = df[(df["secs"] >= from_time) & (df["secs"] <= to_time)]["val"]
+        # plot_signal(df_window, time_data, False)
+
+        min_noise = min(min_noise, np.min(df_window))
+        max_noise = max(max_noise, np.max(df_window))
+
+        noise_std.append(np.std(df_window))
+        regions.append((from_time, to_time))
+
+        from_time = from_time + window_step
+        to_time = to_time + window_step
+
+    noise_mean_std = np.mean(noise_std)
+
+    noise_region = {
+        "x0": regions[0][0],
+        "x1": regions[-1][1],
+        "y0": min_noise - noise_mean_std,
+        "y1": max_noise + noise_mean_std,
+        "name": "Noise region",
+    }
+
+    return min_noise, max_noise, noise_mean_std, noise_region
+
+
+def get_signal_amplitude(signal, first_arrival, last_arrival):
+    window_start = first_arrival - timedelta(minutes=1).total_seconds()
+    window_end = last_arrival + timedelta(minutes=1).total_seconds()
+
+    signal_window = signal[
+        (signal["secs"] >= window_start) & (signal["secs"] <= window_end)
+    ]
+
+    min_signal = np.min(signal_window["val"])
+    max_signal = np.max(signal_window["val"])
+
+    std = np.std(signal_window["val"])
+
+    region = {
+        "x0": window_start,
+        "x1": window_end,
+        "y0": min_signal,
+        "y1": max_signal,
+        "name": "Amplitude region",
+    }
+
+    return min_signal, max_signal, std, region
+
+
+if __name__ == "__main__":
+    from obspy.clients.fdsn import Client
+    import obspy.core.utcdatetime as utc
+
+    catalog = "USP"
+    client = Client(catalog)
+    events = client.get_events(
+        starttime=utc.UTCDateTime("2026-10-09T00:00:00.000000Z"),
+        endtime=utc.UTCDateTime("2026-10-09T23:59:00.000000Z"),
+        minmagnitude=7.0,
+    )
+
+    event_data, time_data = analise_catalog(events, catalog, plotting=False)
+
+    print(event_data)

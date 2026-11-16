@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"Near West Coast of Honshu, Japan2024-01-01T07:10:06.987743Z",37.34896469,137.3699951,164.96880273458643,10.0,7.461124352,mB,USP,2024-01-01T07:10:06.987743Z,-22.807606,-47.052526,18338651.212199993,15.531160704159733

@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Colombia2026-09-12T11:16:11.472519Z,4.40598201751709,-76.65786743164062,39.707131780690084,71.0,5.094373589481976,mb,USP,2026-09-12T11:16:11.472519Z,-22.807606,-47.052526,4407526.740878857,134.35229186363355

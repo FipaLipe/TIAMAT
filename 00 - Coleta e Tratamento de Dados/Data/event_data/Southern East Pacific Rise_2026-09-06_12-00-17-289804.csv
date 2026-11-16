@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Southern East Pacific Rise2026-09-06T12:00:17.289804Z,-24.28917694091797,-115.6365737915039,62.20922801267203,10.0,5.223042995698871,mb,USP,2026-09-06T12:00:17.289804Z,-22.807606,-47.052526,6928725.200580713,104.07383947935492

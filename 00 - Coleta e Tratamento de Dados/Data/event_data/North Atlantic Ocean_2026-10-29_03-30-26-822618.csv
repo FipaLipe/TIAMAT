@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+North Atlantic Ocean2026-10-29T03:30:26.822618Z,27.92662239074707,-35.00264358520508,52.05006144416216,10.0,5.447897332277344,mb,USP,2026-10-29T03:30:26.822618Z,-22.807606,-47.052526,5760949.169178247,194.2039616740207

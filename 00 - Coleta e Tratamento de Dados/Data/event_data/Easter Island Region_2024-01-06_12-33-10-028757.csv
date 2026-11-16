@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Easter Island Region2024-01-06T12:33:10.028757Z,-24.59268379,-114.8880463,61.4748978467203,10.0,5.065913812,mb,USP,2024-01-06T12:33:10.028757Z,-22.807606,-47.052526,6846973.678149319,103.69510368261697

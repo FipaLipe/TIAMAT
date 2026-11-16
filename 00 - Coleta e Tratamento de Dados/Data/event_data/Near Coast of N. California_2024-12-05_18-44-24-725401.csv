@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Near Coast of N. California2024-12-05T18:44:24.725401Z,40.31603241,-124.7505951,95.79947798118022,10.0,7.018313027,mB,USP,2024-12-05T18:44:24.725401Z,-22.807606,-47.052526,10640733.562759675,114.95969719001381

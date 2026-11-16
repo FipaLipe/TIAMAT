@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Nicaragua2026-03-26T17:15:44.953400Z,12.072142601013184,-86.22334289550781,51.846290224194696,171.31300354003906,5.145143439168,mb,USP,2026-03-26T17:15:44.953400Z,-22.807606,-47.052526,5755447.507101036,132.04825118547484

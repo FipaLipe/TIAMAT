@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Near Coast of Northern Chile2026-06-11T12:06:35.705879Z,-27.59737777709961,-71.34651184082031,22.457140943018892,40.28200149536133,5.169172101195544,mb,USP,2026-06-11T12:06:35.705879Z,-22.807606,-47.052526,2500814.7798816087,83.1968216478054

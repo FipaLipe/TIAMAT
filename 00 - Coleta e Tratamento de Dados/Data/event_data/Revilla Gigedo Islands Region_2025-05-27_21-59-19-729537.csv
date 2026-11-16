@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Revilla Gigedo Islands Region2025-05-27T21:59:19.729537Z,18.752609252929688,-108.03350830078125,72.61361282722496,10.0,5.057986168555926,mb,USP,2025-05-27T21:59:19.729537Z,-22.807606,-47.052526,8067560.205943999,122.19098739188831

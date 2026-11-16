@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Near Coast of Guatemala2026-06-22T04:00:26.743081Z,13.314066886901855,-90.6768569946289,55.938908568728245,40.0,5.036706271209574,mb,USP,2026-06-22T04:00:26.743081Z,-22.807606,-47.052526,6211208.33835371,129.6723624364833

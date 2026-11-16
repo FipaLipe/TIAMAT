@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Peru-Bolivia Border Region2025-07-30T03:49:13.200487Z,-17.35557938,-69.47285461,21.725267864460616,163.2700043,4.799487393,mb,USP,2025-07-30T03:49:13.200487Z,-22.807606,-47.052526,2418506.46413965,108.14837188981289

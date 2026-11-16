@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Northern Molucca Sea2023-01-18T06:06:11.487607Z,2.661884546,127.1628342,159.08815416212812,48.0,7.046836484,mB,USP,2023-01-18T06:06:11.487607Z,-22.807606,-47.052526,17691456.229970288,194.7975134530537

@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"Luzon, Philippines2022-07-27T00:43:22.905401Z",17.51166344,120.8016281,167.43582184859596,10.0,7.009703134,mB,USP,2022-07-27T00:43:22.905401Z,-22.807606,-47.052526,18630355.77860218,242.3390753123301

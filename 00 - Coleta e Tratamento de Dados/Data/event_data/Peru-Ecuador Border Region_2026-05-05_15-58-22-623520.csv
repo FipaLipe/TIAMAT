@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Peru-Ecuador Border Region2026-05-05T15:58:22.623520Z,-3.570589542388916,-80.63627624511719,37.75914142367631,10.0,5.020240915119119,mb,USP,2026-05-05T15:58:22.623520Z,-22.807606,-47.052526,4197317.168670208,123.46497282297193

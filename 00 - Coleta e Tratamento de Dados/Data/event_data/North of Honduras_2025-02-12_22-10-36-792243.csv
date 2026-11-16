@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+North of Honduras2025-02-12T22:10:36.792243Z,17.46347237,-83.1769104,53.563248022333475,10.0,5.00663562,mb,USP,2025-02-12T22:10:36.792243Z,-22.807606,-47.052526,5941877.211012334,137.32505898303972

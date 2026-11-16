@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Near Coast of Nicaragua2024-11-02T19:59:13.865612Z,12.74473381,-87.89652252,53.512494570879575,70.0,5.028869242,mb,USP,2024-11-02T19:59:13.865612Z,-22.807606,-47.052526,5940847.442192955,131.24042627976857

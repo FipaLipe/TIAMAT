@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Turkey2023-02-06T01:17:34.802569Z,37.12042618,37.02080917,99.09322426076697,18.0,7.781266634,mB,USP,2023-02-06T01:17:34.802569Z,-22.807606,-47.052526,11010158.468196804,248.38968782543117

@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Chile-Bolivia Border Region2024-01-07T08:35:33.158797Z,-18.13820839,-68.90745544,20.977361162433475,139.0,5.498296947,mb,USP,2024-01-07T08:35:33.158797Z,-22.807606,-47.052526,2335469.6824327186,106.48637415843122

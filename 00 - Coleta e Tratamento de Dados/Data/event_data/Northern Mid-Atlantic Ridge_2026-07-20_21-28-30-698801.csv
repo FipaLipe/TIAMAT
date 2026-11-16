@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Northern Mid-Atlantic Ridge2026-07-20T21:28:30.698801Z,14.538630485534668,-44.9554443359375,37.40264355994769,10.0,5.611969696299108,mb,USP,2026-07-20T21:28:30.698801Z,-22.807606,-47.052526,4137492.621489653,183.2037617737891

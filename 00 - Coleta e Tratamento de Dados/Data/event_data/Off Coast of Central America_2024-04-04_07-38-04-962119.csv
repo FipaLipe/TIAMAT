@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Off Coast of Central America2024-04-04T07:38:04.962119Z,12.84051037,-88.83912659,54.267917792894295,56.0,5.239394833,mb,USP,2024-04-04T07:38:04.962119Z,-22.807606,-47.052526,6025098.189695509,130.6438427176673

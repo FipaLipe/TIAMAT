@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Galapagos Triple Junction Region2024-01-12T06:32:04.335027Z,1.114982605,-101.388298,58.00786326481259,10.0,5.04857531,mb,USP,2024-01-12T06:32:04.335027Z,-22.807606,-47.052526,6451455.165968796,117.85564115706168

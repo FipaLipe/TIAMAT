@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"Off Coast of Jalisco, Mexico2025-12-05T19:33:38.924947Z",18.62639045715332,-107.27999877929688,71.94393584834901,10.0,5.189243512703571,mb,USP,2025-12-05T19:33:38.924947Z,-22.807606,-47.052526,7992939.408619444,122.52050972530316

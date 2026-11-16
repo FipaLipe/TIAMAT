@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"Qinghai, China2026-07-28T03:34:05.938151Z",35.41994857788086,99.7412109375,148.5615278714672,10.0,5.401865677560725,mb,USP,2026-07-28T03:34:05.938151Z,-22.807606,-47.052526,16525218.831825638,284.88933916535575

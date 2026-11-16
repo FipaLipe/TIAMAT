@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+South Africa2024-12-22T00:51:05.677101Z,-30.44437408,19.43065071,59.10127898155615,10.0,5.240250712,mb,USP,2024-12-22T00:51:05.677101Z,-22.807606,-47.052526,6582919.41535294,260.0343717866667

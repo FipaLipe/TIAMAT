@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Near Coast of Venezuela2026-06-24T22:04:33.349152Z,10.524182319641113,-68.447509765625,39.37168778134497,10.0,7.221406425854974,Mw(mB),USP,2026-06-24T22:04:33.349152Z,-22.807606,-47.052526,4363190.51706728,147.82086146739087

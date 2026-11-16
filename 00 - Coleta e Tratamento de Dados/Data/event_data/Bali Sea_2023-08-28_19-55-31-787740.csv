@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Bali Sea2023-08-28T19:55:31.787740Z,-6.908918858,116.6168747,146.26018752091375,523.4906616,7.06994345,mB,USP,2023-08-28T19:55:31.787740Z,-22.807606,-47.052526,16273420.20482,207.57105844173327

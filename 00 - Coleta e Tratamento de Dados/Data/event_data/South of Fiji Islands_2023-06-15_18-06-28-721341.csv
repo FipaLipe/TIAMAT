@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+South of Fiji Islands2023-06-15T18:06:28.721341Z,-23.20520401,-177.0370026,113.0589627730616,203.95788570000002,7.166173193,mB,USP,2023-06-15T18:06:28.721341Z,-22.807606,-47.052526,12589871.96204826,129.95034344049583

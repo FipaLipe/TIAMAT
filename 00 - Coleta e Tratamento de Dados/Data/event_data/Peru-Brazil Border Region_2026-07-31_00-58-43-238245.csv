@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Peru-Brazil Border Region2026-07-31T00:58:43.238245Z,-8.31413745880127,-74.20289611816406,29.81087797002926,144.0,5.593487227055657,mb,USP,2026-07-31T00:58:43.238245Z,-22.807606,-47.052526,3314533.549175327,122.0561620787559

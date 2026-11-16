@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+South Sandwich Islands Region2025-04-05T11:29:11.068794Z,-57.24655914,-25.95716095,37.69226276986954,10.0,5.652633017,mb,USP,2025-04-05T11:29:11.068794Z,-22.807606,-47.052526,4188042.091661718,327.0576366335678

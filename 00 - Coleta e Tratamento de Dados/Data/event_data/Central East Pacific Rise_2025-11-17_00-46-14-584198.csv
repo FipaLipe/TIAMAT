@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Central East Pacific Rise2025-11-17T00:46:14.584198Z,-10.944068908691406,-106.849853515625,58.069759470617264,10.0,5.201877555213032,mb,USP,2025-11-17T00:46:14.584198Z,-22.807606,-47.052526,6464507.022469954,110.10021738324974

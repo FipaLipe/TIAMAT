@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Panama2026-10-09T20:21:41.592678Z,7.145816326141357,-80.15385437011719,44.1112915057303,12.48027801513672,5.118514220362824,mb,USP,2026-10-09T20:21:41.592678Z,-22.807606,-47.052526,4896569.11721794,133.49359411165958

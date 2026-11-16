@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Off East Coast of Kamchatka2024-08-17T19:10:22.786535Z,52.48851776,160.9618683,143.4202000798368,34.0,7.047609039,mB,USP,2024-08-17T19:10:22.786535Z,-22.807606,-47.052526,15944558.691082641,46.34327347763327

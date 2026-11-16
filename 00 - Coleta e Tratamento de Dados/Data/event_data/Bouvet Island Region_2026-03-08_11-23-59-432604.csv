@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Bouvet Island Region2026-03-08T11:23:59.432604Z,-54.0941276550293,8.26321029663086,51.566138253126304,10.0,5.256144728520304,mb,USP,2026-03-08T11:23:59.432604Z,-22.807606,-47.052526,5738981.443074769,284.50014577644686

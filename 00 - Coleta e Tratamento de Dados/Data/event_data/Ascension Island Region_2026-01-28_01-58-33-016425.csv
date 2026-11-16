@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Ascension Island Region2026-01-28T01:58:33.016425Z,-11.53328037261963,-14.197101593017578,33.256013027359046,10.0,5.335699583064655,mb,USP,2026-01-28T01:58:33.016425Z,-22.807606,-47.052526,3700560.823719429,245.88792892857356

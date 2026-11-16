@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Near Coast of Northern Peru2025-05-14T20:13:24.983066Z,-6.023737907409668,-81.03445434570312,36.78984941898331,10.0,5.151643656368738,mb,USP,2025-05-14T20:13:24.983066Z,-22.807606,-47.052526,4091044.6782418373,120.50375932106999

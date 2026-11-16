@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Komandorsky Islands Region2026-07-28T04:42:18.638408Z,55.94224548339844,165.04393005371094,139.33068803806407,10.0,5.346778923072141,mb,USP,2026-07-28T04:42:18.638408Z,-22.807606,-47.052526,15488484.181152375,48.510263892966925

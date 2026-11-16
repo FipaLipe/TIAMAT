@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Northern Chile2026-05-27T05:23:31.238620Z,-22.21748161315918,-68.44080352783203,19.75006860486094,104.0,5.347298021397217,mb,USP,2026-05-27T05:23:31.238620Z,-22.807606,-47.052526,2199635.916507789,95.81702568723344

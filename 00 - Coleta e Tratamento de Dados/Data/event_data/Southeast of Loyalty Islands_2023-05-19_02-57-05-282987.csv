@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Southeast of Loyalty Islands2023-05-19T02:57:05.282987Z,-23.03689766,170.8322906,121.18654563276117,38.0,7.666539594,mB,USP,2023-05-19T02:57:05.282987Z,-22.807606,-47.052526,13493433.549931817,138.69114778034313

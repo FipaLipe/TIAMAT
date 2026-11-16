@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Chile-Bolivia Border Region2026-10-09T10:22:08.548996Z,-20.3394775390625,-68.5781021118164,20.150961704974492,10.0,5.299287034500177,mb,USP,2026-10-09T10:22:08.548996Z,-22.807606,-47.052526,2244016.524921935,100.90542393107499

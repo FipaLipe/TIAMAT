@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Vanuatu Islands2023-12-07T12:56:28.415565Z,-20.61688232,169.2467804,123.97609017939878,35.0,7.069267158,mB,USP,2023-12-07T12:56:28.415565Z,-22.807606,-47.052526,13803054.110120537,138.97602430422504

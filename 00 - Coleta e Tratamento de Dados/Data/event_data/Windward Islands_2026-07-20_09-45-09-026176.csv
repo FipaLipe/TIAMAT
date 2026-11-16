@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Windward Islands2026-07-20T09:45:09.026176Z,11.363189697265625,-60.47956085205078,36.61470237266949,73.0,5.126554003617459,mb,USP,2026-07-20T09:45:09.026176Z,-22.807606,-47.052526,4053604.2341073123,158.8440930622953

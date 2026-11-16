@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+North Atlantic Ocean2025-11-11T03:28:37.406383Z,13.657668113708496,-58.48330307006836,38.14501786604376,10.0,5.001562145728095,M,USP,2025-11-11T03:28:37.406383Z,-22.807606,-47.052526,4221871.080102758,162.69198879494442

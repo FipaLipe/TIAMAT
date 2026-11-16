@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Kyrgyzstan-Xinjiang Border Reg.2024-01-22T18:09:02.607011Z,41.05666733,78.59030151,131.2739168743661,10.0,7.042217505,mB,USP,2024-01-22T18:09:02.607011Z,-22.807606,-47.052526,14597381.097829267,274.84495656076035

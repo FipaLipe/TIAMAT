@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"Mindanao, Philippines2024-07-11T02:13:15.223169Z",5.817755699,123.1456604,160.55641413040323,620.0,7.057063043,mb,USP,2024-07-11T02:13:15.223169Z,-22.807606,-47.052526,17856604.48102941,207.60991035525188

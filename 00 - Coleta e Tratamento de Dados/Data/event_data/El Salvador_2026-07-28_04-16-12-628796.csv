@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+El Salvador2026-07-28T04:16:12.628796Z,13.172642707824707,-88.08264923095703,53.93180159083372,115.0,4.2991698376517125,mb,USP,2026-07-28T04:16:12.628796Z,-22.807606,-47.052526,5987261.026744225,131.34566234267186

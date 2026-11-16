@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Off Coast of Northern Chile2026-09-21T11:48:31.272287Z,-22.25763702392578,-71.69034576416016,22.737373887740535,10.0,5.046630803856011,mb,USP,2026-09-21T11:48:31.272287Z,-22.807606,-47.052526,2532349.240435057,96.13921922596167

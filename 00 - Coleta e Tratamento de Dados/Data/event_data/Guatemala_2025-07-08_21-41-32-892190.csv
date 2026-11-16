@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Guatemala2025-07-08T21:41:32.892190Z,14.48148250579834,-90.47843170166016,56.54562616949908,10.0,5.100542190607681,mb,USP,2025-07-08T21:41:32.892190Z,-22.807606,-47.052526,6277874.441267167,130.39794697229092

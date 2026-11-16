@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+"Santiago Del Estero Prov., Argentina2025-12-27T10:40:49.141573Z",-28.229490280151367,-63.25777816772461,15.579902635410036,588.4222412109375,5.415418902898842,mb,USP,2025-12-27T10:40:49.141573Z,-22.807606,-47.052526,1734282.6446622438,73.40532343852178

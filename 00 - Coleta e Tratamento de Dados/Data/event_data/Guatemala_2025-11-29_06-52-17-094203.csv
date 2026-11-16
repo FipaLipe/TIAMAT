@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Guatemala2025-11-29T06:52:17.094203Z,15.363154411315918,-89.55177307128906,56.45075177117992,10.0,5.084965716512785,mb,USP,2025-11-29T06:52:17.094203Z,-22.807606,-47.052526,6266463.962728547,131.46509085105717

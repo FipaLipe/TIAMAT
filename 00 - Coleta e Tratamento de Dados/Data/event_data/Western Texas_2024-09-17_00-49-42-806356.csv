@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Western Texas2024-09-17T00:49:42.806356Z,32.33920288,-102.0551071,76.15280601934292,14.7183733,5.145067362,mb,USP,2024-09-17T00:49:42.806356Z,-22.807606,-47.052526,8452128.93677081,128.7676204252914

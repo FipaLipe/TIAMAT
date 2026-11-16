@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Caribbean Sea2025-07-30T01:15:31.152953Z,11.42149544,-66.20323944,39.03229202762791,46.88736343,5.135955962,mb,USP,2025-07-30T01:15:31.152953Z,-22.807606,-47.052526,4324111.386246891,151.14631799919195

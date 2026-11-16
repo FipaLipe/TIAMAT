@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Honduras2026-01-16T06:08:44.818608Z,15.666037559509277,-88.22055053710938,55.703752603453225,15.694448471069336,5.018758178396542,mb,USP,2026-01-16T06:08:44.818608Z,-22.807606,-47.052526,6182761.659240164,132.5509882944686

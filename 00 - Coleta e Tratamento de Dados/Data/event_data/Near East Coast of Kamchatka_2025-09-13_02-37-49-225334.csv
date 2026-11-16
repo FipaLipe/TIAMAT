@@ -1,0 +1,2 @@
+event_id,latitude,longitude,epicenter_distance,depth,magnitude,magnitude_type,Source,origin_time,receptor_latitude,receptor_longitude,geodesic_distance,azimuth_degree
+Near East Coast of Kamchatka2025-09-13T02:37:49.225334Z,53.0350456237793,160.5970916748047,143.20013273984796,10.0,6.387808897742715,mb,USP,2025-09-13T02:37:49.225334Z,-22.807606,-47.052526,15919848.113133125,45.32612529511866
