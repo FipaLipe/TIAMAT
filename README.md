@@ -248,6 +248,14 @@ Também agradeço ao meu colega Vinícius Marianno de Marque Cutolo por ter auxi
 
 ---
 
+## XKCD Relevante
+
+<img src="https://imgs.xkcd.com/comics/seismic_waves.png"></img>
+
+`Imagem: Seismic Waves (XKCD) disponível em https://xkcd.com/723`
+
+---
+
 ## Professor orientador
 
 <table>
