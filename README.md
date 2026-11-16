@@ -68,9 +68,11 @@ O desenvolvimento do projeto foi dividido em duas etapas principais:
   <li> 📂 <b>01 - Modelos</b>: contém os notebooks utilizados para a construção, otimização e avaliação dos modelos de Machine Learning</li>
   <ul>
     <li> 📓 <b>01.A - Baseline.ipynb</b>: construção de um modelo de referência para comparação com os demais algoritmos</li>
-    <li> 📓 <b>01.B - KNN.ipynb</b>: aplicação e otimização do algoritmo K-Nearest Neighbors</li>
-    <li> 📓 <b>01.C - Árvore de Decisão.ipynb</b>: aplicação e otimização de Árvores de Decisão</li>
-    <li> 📓 <b>01.D - Floresta Aleatória.ipynb</b>: aplicação e otimização do algoritmo de Floresta Aleatória</li>
+<li> 📓 <b>01.B - KNN.ipynb</b>: aplicação e otimização do algoritmo K-Nearest Neighbors</li>
+<li> 📓 <b>01.C - Árvore de Decisão.ipynb</b>: aplicação e otimização de Árvores de Decisão</li>
+<li> 📓 <b>01.D - Floresta Aleatória.ipynb</b>: aplicação e otimização do algoritmo de Floresta Aleatória</li>
+<li> 📓 <b>01.E - Gradient Boosting.ipynb</b>: aplicação e otimização do algoritmo Gradient Boosting</li>
+<li> 📓 <b>01.F - XGBoost.ipynb</b>: aplicação e otimização do algoritmo XGBoost</li>
       <li> 📂 <b>Studies</b>: contém os estudos do Optuna utilizados na otimização dos hiperparâmetros</li>
   <ul>
     <li> 🗃️ <b>knn_tiamat.db</b>: estudo de otimização do modelo KNN</li>
@@ -176,6 +178,31 @@ Foram avaliados diferentes valores para:
 - número mínimo de amostras para divisão;
 - número mínimo de amostras por folha;
 - quantidade de atributos considerados em cada divisão.
+
+### Gradient Boosting
+
+O Gradient Boosting combina diversas árvores de decisão construídas sequencialmente, em que cada nova árvore busca corrigir os erros das árvores anteriores.
+
+Foram explorados diferentes valores de:
+
+- número de árvores;
+- taxa de aprendizado;
+- profundidade máxima;
+- número mínimo de amostras para divisão;
+- número mínimo de amostras por folha.
+
+### XGBoost
+
+O XGBoost é uma implementação otimizada do Gradient Boosting, utilizando árvores de decisão construídas sequencialmente para melhorar as previsões do modelo.
+
+Foram avaliados diferentes valores para:
+
+- número de árvores;
+- taxa de aprendizado;
+- profundidade máxima;
+- peso mínimo necessário para realizar uma divisão;
+- fração das amostras utilizadas em cada árvore;
+- fração dos atributos considerados em cada árvore.
 
 ---
 
